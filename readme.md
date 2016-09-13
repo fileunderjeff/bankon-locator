@@ -29,8 +29,10 @@ Use this output as /data/locations.xml.
 
 ## Update the info windows
 
-Directory: /assets/js/plugins/storelocator/templates
+Directory: /assets/js/plugins/storelocator/templates -
+
 location-list-description.html - what appears in the sidebar
+
 infowindow-description.html - what appears in the pop up window
 
 Swap out variables with the names of your rows.
