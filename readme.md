@@ -3,7 +3,9 @@ This is a bank locator for Bank on Houston and Bank on Montgomery County. The "B
 This is based on http://www.bjornblog.com/web/jquery-store-locator-plugin
 
 You can view unstyled demos here:
+
 http://data.life/bankonmontgomerycounty
+
 http://data.life/bot
 
 There are three things you need to do to get this up and running:
