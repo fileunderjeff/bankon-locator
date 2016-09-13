@@ -25,12 +25,12 @@ Bottom:
 
 Make sure that the repeating section has the same number of fields as your CSV file. 
 
-Use this output as data/locations.xml.
+Use this output as /data/locations.xml.
 
 ## Update the info windows
 
-/assets/js/plugins/storelocator/templates
-location-list-description.html is what appears in the sidebar
-infowindow-description.html is what appears in the pop up window
+Directory: /assets/js/plugins/storelocator/templates
+location-list-description.html - what appears in the sidebar
+infowindow-description.html - what appears in the pop up window
 
 Swap out variables with the names of your rows.
