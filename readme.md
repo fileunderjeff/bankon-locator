@@ -29,7 +29,7 @@ Use this output as /data/locations.xml.
 
 ## Update the info windows
 
-Directory: /assets/js/plugins/storelocator/templates -
+Directory: /assets/js/plugins/storelocator/templates 
 
 location-list-description.html - what appears in the sidebar
 
