@@ -29,14 +29,6 @@ Repeating section:
 Bottom:
 `</root>`
 
-If you want to have hyperlinks in the XML, then use the following:
-
-Top:
-`<?xml version="1.0" ?><rootelement xmlns:xlink="http://www.w3.org/1999/xlink"><root>`
-
-Links:
-`<myelement xlink:type="simple" xlink:href="http://www.google.com">Google</myelement>`
-
 Make sure that the repeating section has the same number of fields as your CSV file. 
 
 Use this output as /data/locations.xml.
